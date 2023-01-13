@@ -82,7 +82,7 @@ outlier_detect <- function(data){
   }
 ```
 
-## Testando
+## Testando afunção
 
 ```{r}
 outlier_detect(data = starwars$mass)
@@ -128,7 +128,7 @@ outlier_remove <- function(data, outliers = ...){
 }
 ```
 
-## Testando 
+## Testando a função 
 
 ```{r}
 removed <- outlier_remove(dat = starwars$height, outliers = c(264, 234, 228, 229))

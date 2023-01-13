@@ -1,8 +1,2 @@
-
-# Outlier Detect
-
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of Outlier Detect is to ...
+Funções para a detecção de ouliers.
 
