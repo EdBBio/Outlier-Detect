@@ -82,7 +82,7 @@ outlier_detect <- function(data){
   }
 ```
 
-## Testando afunção
+## Testando a função
 
 ```{r}
 outlier_detect(data = starwars$mass)
