@@ -198,7 +198,7 @@ outlier_remove_all <- function(data){
 }
 ```
 
-## Testando
+## Testando a função
 
 ```{r}
 removed_all <- outlier_remove_all(data = starwars$mass) 
