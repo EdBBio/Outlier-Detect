@@ -1,2 +1,2 @@
-Funções para a detecção de ouliers.
+Funções para a detecção de ouliers em vetores.
 
